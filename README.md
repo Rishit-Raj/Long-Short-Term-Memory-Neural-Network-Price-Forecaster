@@ -1,4 +1,4 @@
-# LSTM Price Forecaster — README
+# LSTM Price Forecaster
 
 This README gives a **simple explanation of what an LSTM is** and **easy steps** to run the program.
 
